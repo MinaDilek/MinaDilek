@@ -1,7 +1,5 @@
-### Hi there 👋
+![giphy](https://user-images.githubusercontent.com/70237763/120039548-c9f02b00-c00d-11eb-8396-01ae6feaa95e.gif)
 
-
-**MinaDilek/MinaDilek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -15,8 +13,6 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MinaDilek&layout=compact)](https://github.com/MinaDilek/github-readme-stats)
 
 
-
-![Alt Text](https://media.giphy.com/media/XaLnoepP2IwFnUXdvb/source.gif)
 
 
 
