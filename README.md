@@ -3,7 +3,7 @@
 ![code](https://user-images.githubusercontent.com/70237763/120041966-e7bf8f00-c011-11eb-8e88-ac5e2e6783c1.gif)
 
 
-- 🌱 I’m currently learning RPA
+- 🌱 I’m currently learning Angular
 - 📫 How to reach me: 
    - :office: [LınkedIn](https://www.linkedin.com/in/mina-dilek/)
 - :art: I like to draw pictures.
